@@ -17,24 +17,65 @@ Whether you're just starting with React or looking to sharpen your skills with r
 
 ---
 
-## 📅 Upcoming Topics & Code Schedule
+## 📅 Upcoming React Topics & Code Schedule
 
-| S.No | Topic                               | Status       | Video Link                                 | Code Folder |
-|------|-------------------------------------|--------------|---------------------------------------------|-------------|
-| 1    | React Folder Structure Best Practices | Coming Soon | _TBA_                                       | `/01-folder-structure` |
-| 2    | useState & useEffect Deep Dive       | Coming Soon | _TBA_                                       | `/02-hooks-deep-dive` |
-| 3    | useContext + useReducer Pattern      | Coming Soon | _TBA_                                       | `/03-context-reducer` |
-| 4    | Custom Hooks in Real Projects        | Coming Soon | _TBA_                                       | `/04-custom-hooks` |
-| 5    | React Performance Optimization       | Coming Soon | _TBA_                                       | `/05-performance` |
-| 6    | Lazy Loading & Code Splitting        | Coming Soon | _TBA_                                       | `/06-lazy-loading` |
-| 7    | React Query Crash Course             | Coming Soon | _TBA_                                       | `/07-react-query` |
-| 8    | Redux Toolkit Simplified             | Coming Soon | _TBA_                                       | `/08-redux-toolkit` |
-| 9    | TypeScript with React                | Coming Soon | _TBA_                                       | `/09-typescript` |
-| 10   | Testing React with Jest & React Testing Library | Coming Soon | _TBA_                                       | `/10-testing` |
-| 11   | Authentication using JWT & Context   | Coming Soon | _TBA_                                       | `/11-auth-jwt` |
-| 12   | Building a Fullstack App with MERN   | Coming Soon | _TBA_                                       | `/12-mern-app` |
 
-> 🔄 This table will be updated as each video is recorded and uploaded.
+| S.No | Topic                                             | Status       | Video Link     | Code Folder              |
+|------|---------------------------------------------------|--------------|----------------|---------------------------|
+| 1    | React App Setup with Vite or CRA                  | Coming Soon  | _TBA_          | `/01-setup`              |
+| 2    | Folder Structure Best Practices                   | Coming Soon  | _TBA_          | `/02-structure`          |
+| 3    | JSX and React.createElement()                     | Coming Soon  | _TBA_          | `/03-jsx`                |
+| 4    | useState Hook Deep Dive                           | Coming Soon  | _TBA_          | `/04-usestate`           |
+| 5    | useEffect Explained with Examples                 | Coming Soon  | _TBA_          | `/05-useeffect`          |
+| 6    | useRef Hook and Real-Time Usage                   | Coming Soon  | _TBA_          | `/06-useref`             |
+| 7    | useMemo and useCallback Optimization              | Coming Soon  | _TBA_          | `/07-memo-callback`      |
+| 8    | useReducer Hook                                   | Coming Soon  | _TBA_          | `/08-usereducer`         |
+| 9    | useContext with Real Example                      | Coming Soon  | _TBA_          | `/09-usecontext`         |
+| 10   | Custom Hooks – Build Your Own                     | Coming Soon  | _TBA_          | `/10-custom-hooks`       |
+| 11   | React Router v6 – Full Tutorial                   | Coming Soon  | _TBA_          | `/11-router`             |
+| 12   | Lazy Loading & Code Splitting                     | Coming Soon  | _TBA_          | `/12-lazy-loading`       |
+| 13   | Forms in React – Controlled vs Uncontrolled       | Coming Soon  | _TBA_          | `/13-forms`              |
+| 14   | Formik & Yup for Form Handling and Validation     | Coming Soon  | _TBA_          | `/14-formik`             |
+| 15   | React Query – Data Fetching Simplified            | Coming Soon  | _TBA_          | `/15-react-query`        |
+| 16   | Redux Toolkit for Beginners                       | Coming Soon  | _TBA_          | `/16-redux-toolkit`      |
+| 17   | State Management: Context vs Redux                | Coming Soon  | _TBA_          | `/17-context-vs-redux`   |
+| 18   | Axios & API Integration in React                  | Coming Soon  | _TBA_          | `/18-api-axios`          |
+| 19   | React Project Environment Variables (.env)        | Coming Soon  | _TBA_          | `/19-env-config`         |
+| 20   | Error Boundaries in React                         | Coming Soon  | _TBA_          | `/20-error-boundary`     |
+| 21   | Higher-Order Components (HOC)                     | Coming Soon  | _TBA_          | `/21-hoc`                |
+| 22   | Render Props Pattern                              | Coming Soon  | _TBA_          | `/22-render-props`       |
+| 23   | Compound Components Pattern                       | Coming Soon  | _TBA_          | `/23-compound-components`|
+| 24   | Prop Drilling and Avoiding It                     | Coming Soon  | _TBA_          | `/24-prop-drilling`      |
+| 25   | Component Memoization                             | Coming Soon  | _TBA_          | `/25-component-memo`     |
+| 26   | Debounce & Throttle in React                      | Coming Soon  | _TBA_          | `/26-debounce-throttle`  |
+| 27   | File Upload with Preview                          | Coming Soon  | _TBA_          | `/27-file-upload`        |
+| 28   | Dark Mode Theme Switcher                          | Coming Soon  | _TBA_          | `/28-dark-mode`          |
+| 29   | Authentication using JWT                          | Coming Soon  | _TBA_          | `/29-jwt-auth`           |
+| 30   | Role-Based Route Protection                       | Coming Soon  | _TBA_          | `/30-role-protection`    |
+| 31   | LocalStorage vs SessionStorage                    | Coming Soon  | _TBA_          | `/31-storage`            |
+| 32   | Responsive Design with Tailwind & Styled Components | Coming Soon | _TBA_        | `/32-styling`            |
+| 33   | Creating Custom Modals & Toasts                   | Coming Soon  | _TBA_          | `/33-modal-toast`        |
+| 34   | Reusable Components Strategy                      | Coming Soon  | _TBA_          | `/34-reusables`          |
+| 35   | Pagination, Search & Filter in Lists              | Coming Soon  | _TBA_          | `/35-pagination`         |
+| 36   | React Table Customization                         | Coming Soon  | _TBA_          | `/36-react-table`        |
+| 37   | Drag & Drop with React DnD                        | Coming Soon  | _TBA_          | `/37-drag-drop`          |
+| 38   | Intersection Observer in React                    | Coming Soon  | _TBA_          | `/38-intersection`       |
+| 39   | React Portals Explained                           | Coming Soon  | _TBA_          | `/39-portals`            |
+| 40   | Firebase Authentication with React                | Coming Soon  | _TBA_          | `/40-firebase-auth`      |
+| 41   | Push Notifications in React                       | Coming Soon  | _TBA_          | `/41-push-notify`        |
+| 42   | Real-time Chat App with WebSocket                 | Coming Soon  | _TBA_          | `/42-chat-socket`        |
+| 43   | Build Todo App with Local Storage                 | Coming Soon  | _TBA_          | `/43-todo`               |
+| 44   | Build a Blog with Markdown Editor                 | Coming Soon  | _TBA_          | `/44-blog-markdown`      |
+| 45   | E-commerce Product Listing                        | Coming Soon  | _TBA_          | `/45-ecommerce-listing`  |
+| 46   | Payment Gateway Integration                       | Coming Soon  | _TBA_          | `/46-payment-gateway`    |
+| 47   | SEO Optimization in React                         | Coming Soon  | _TBA_          | `/47-seo`                |
+| 48   | React with TypeScript – Beginner to Advanced      | Coming Soon  | _TBA_          | `/48-typescript`         |
+| 49   | Unit Testing with Jest & RTL                      | Coming Soon  | _TBA_          | `/49-testing`            |
+| 50   | Building Fullstack MERN App                       | Coming Soon  | _TBA_          | `/50-mern-app`           |
+
+---
+
+> This README and the table will be updated as videos and code are published. Bookmark and star the repo to stay updated! ⭐
 
 ---
 
@@ -54,7 +95,7 @@ Have suggestions or want to request a specific React topic? Feel free to open an
 
 ## 📜 License
 
-This project is licensed under the MIT License. You are free to use the code with attribution.
+This project is licensed under the MIT License. Use freely with credit to **Code with Lalla**.
 
 ---
 
