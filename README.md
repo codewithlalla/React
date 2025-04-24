@@ -1,6 +1,6 @@
-# React Mastery Series – Code with Lala
+# React Mastery Series – Code with Lalla
 
-Welcome to the official repository for the **React Mastery Series** presented on the [Code with Lala](https://www.youtube.com/@CodeWithLala) YouTube channel! 🚀
+Welcome to the official repository for the **React Mastery Series** presented on the [Code with Lalla](https://www.youtube.com/@CodeWithLalla) YouTube channel! 🚀
 
 This repository contains source code and project files for all upcoming and published videos on **React** – from beginner concepts to advanced real-world applications.
 
@@ -40,8 +40,8 @@ Whether you're just starting with React or looking to sharpen your skills with r
 
 ## 🔗 Stay Connected
 
-- 📺 YouTube: [Code with Lala](https://www.youtube.com/@CodeWithLala)
-- 📧 Email: contact.codewithlala@gmail.com
+- 📺 YouTube: [Code with Lalla](https://www.youtube.com/@CodeWithLalla)
+- 📧 Email: contact.codewithlalla@gmail.com
 - 🌐 Portfolio: _Coming Soon_
 
 ---
@@ -59,4 +59,4 @@ This project is licensed under the MIT License. You are free to use the code wit
 ---
 
 Happy coding! 🚀  
-**— Lala**
+**— Lalla**
