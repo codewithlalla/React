@@ -26,7 +26,7 @@ Whether you're just starting with React or looking to sharpen your skills with r
 | 2    | Folder Structure Best Practices                   | Coming Soon  | _TBA_          | `/0002-structure`            |
 | 3    | JSX and React.createElement()                     | Coming Soon  | _TBA_          | `/0003-jsx`                  |
 | 4    | useState Hook Deep Dive                           | Coming Soon  | _TBA_          | `/0004-usestate`             |
-| 5    | State Lifting in React                            | ✅ Uploaded  | [Watch Video](https://www.youtube.com) | `/0005-state-lifting`        |
+| 5    | State Lifting in React – Parent-Child Communication | Coming Soon  | _TBA_          | `/0005-state-lifting`        |
 | 6    | useEffect Explained with Examples                 | Coming Soon  | _TBA_          | `/0006-useeffect`            |
 | 7    | useRef Hook and Real-Time Usage                   | Coming Soon  | _TBA_          | `/0007-useref`               |
 | 8    | useMemo and useCallback Optimization              | Coming Soon  | _TBA_          | `/0008-memo-callback`        |
@@ -73,6 +73,7 @@ Whether you're just starting with React or looking to sharpen your skills with r
 | 49   | React with TypeScript – Beginner to Advanced      | Coming Soon  | _TBA_          | `/0049-typescript`           |
 | 50   | Unit Testing with Jest & RTL                      | Coming Soon  | _TBA_          | `/0050-testing`              |
 | 51   | Building Fullstack MERN App                       | Coming Soon  | _TBA_          | `/0051-mern-app`             |
+
 
 
 ---
