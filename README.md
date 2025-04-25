@@ -22,11 +22,11 @@ Whether you're just starting with React or looking to sharpen your skills with r
 
 | S.No | Topic                                             | Status       | Video Link     | Code Folder                  |
 |------|---------------------------------------------------|--------------|----------------|-------------------------------|
-| 1    | React App Setup with Vite or CRA                  | Coming Soon  | _TBA_          | `/0001-setup`                |
+| 1    | React App Setup with Vite                  | ✅ Uploaded  | [Watch](https://www.youtube.com/watch?v=97c-RilQd98)          |  [🔗/0001-setup](https://github.com/codewithlalla/React/tree/main/0001-project-setup)               |
 | 2    | Folder Structure Best Practices                   | Coming Soon  | _TBA_          | `/0002-structure`            |
 | 3    | JSX and React.createElement()                     | Coming Soon  | _TBA_          | `/0003-jsx`                  |
 | 4    | useState Hook Deep Dive                           | Coming Soon  | _TBA_          | `/0004-usestate`             |
-| 5    | State Lifting in React – Parent-Child Communication | ✅ Uploaded | [Watch](https://youtu.be/Jm-3mDJ-B58)          |  [🔗/0005-state-lifting](https://github.com/codewithlalla/React/tree/main/0005-state-lifing)       |
+| 5    | State Lifting in React – Parent-Child Communication | ✅ Uploaded | [Watch](https://www.youtube.com/watch?v=Jm-3mDJ-B58)          |  [🔗/0005-state-lifting](https://github.com/codewithlalla/React/tree/main/0005-state-lifing)       |
 | 6    | useEffect Explained with Examples                 | Coming Soon  | _TBA_          | `/0006-useeffect`            |
 | 7    | useRef Hook and Real-Time Usage                   | Coming Soon  | _TBA_          | `/0007-useref`               |
 | 8    | useMemo and useCallback Optimization              | Coming Soon  | _TBA_          | `/0008-memo-callback`        |
