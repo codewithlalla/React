@@ -31,7 +31,7 @@ Whether you're just starting with React or looking to sharpen your skills with r
 | 7    | useRef Hook and Real-Time Usage                   | Coming Soon  | _TBA_          | `/0007-useref`               |
 | 8    | useMemo and useCallback Optimization              | Coming Soon  | _TBA_          | `/0008-memo-callback`        |
 | 9    | useReducer Hook                                   | Coming Soon  | _TBA_          | `/0009-usereducer`           |
-| 10   | useContext with Real Example                      | Coming Soon  | _TBA_          | `/0010-usecontext`           |
+| 10   | useContext with Real Example                      | ✅ Uploaded  |[Watch](https://www.youtube.com/watch?v=DwIf_wIP8yQ)          |    [🔗/0010-usecontext](https://github.com/codewithlalla/React/tree/main/0010-context-api)           |
 | 11   | Custom Hooks – Build Your Own                     | Coming Soon  | _TBA_          | `/0011-custom-hooks`         |
 | 12   | React Router v6 – Full Tutorial                   | Coming Soon  | _TBA_          | `/0012-router`               |
 | 13   | Lazy Loading & Code Splitting                     | Coming Soon  | _TBA_          | `/0013-lazy-loading`         |
